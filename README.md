@@ -74,7 +74,4 @@ A backend API for a Cat Image Gallery application. Users can register and login,
 - Images are stored in Cloudinary via the configured Cloudinary account.
 - The `image` field must be sent as multipart/form-data when creating or updating cats.
 - Protected routes require a valid JWT token returned from login or register.
-
-## License
-
-This project is licensed under ISC.
+- 
